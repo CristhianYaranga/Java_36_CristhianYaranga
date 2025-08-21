@@ -1,2 +1,2 @@
 # Java_36_CristhianYaranga
-Poo
+Programación Orientada a Objetos
